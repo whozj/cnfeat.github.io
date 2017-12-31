@@ -1,27 +1,27 @@
 # Site settings
-title: 笨方法学写作
+title: 得幸小楼
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|笨方法学写作"  
+description: "WhoZJ|得之我幸是初心"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.whozj.me"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "WhoZJ"
+  email: luoge31819@hotmail.com
+  bio: "一个独立内敛的人，好奇心，念旧者"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
 favicon: img/favicon.ico
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: huyiren0407
+github_username: whozj
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: 
+zhihu_username: huyiren
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -29,7 +29,7 @@ zhihu_username: feat
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 15
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -42,19 +42,19 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "WhoZJ"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : 
   disqus :
-      short_name : cnfeat
+      short_name : whozj
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-80884545-1
+google_analytics: UA-111669368-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
