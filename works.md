@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Poems"
-description: "我选择让诗照进自己的心"
+description: "我选择让诗照进内心"
 header-img: "img/semantic.jpg"
 ---
 
