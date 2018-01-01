@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "About"
-description: "世间一过客，宛在清凉国"
+description: "洗尽风尘见初心，一身如在清凉国"
 header-img: "img/green.jpg"
 ---
