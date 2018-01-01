@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "About"
-description: "得之我幸是初心 "
+description: "世间一过客"
 header-img: "img/green.jpg"
 ---
