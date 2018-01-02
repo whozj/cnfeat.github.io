@@ -1,6 +1,6 @@
 # Site settings
 title: 水上书
-header-img: "img/Xacebook.jpg"
+header-img: "img/new year.jpg"
 tagline: "cn"  
 description: "一切都会像水消失在水中，而文字会留下涟漪"  
 baseurl: ""
@@ -13,7 +13,7 @@ owner:
   bio: "一个独立内敛的人，好奇心，念旧者"
 
 # Data
-gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
+gavatar: http://p1nhfkn3i.bkt.clouddn.com/new%20year.jpg
 favicon: img/favicon.ico
 
 douban_username:  
