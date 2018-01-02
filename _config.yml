@@ -48,8 +48,6 @@ defaults:
 # Comments 
 comments :
   provider : disqus
-  duoshuo :
-    short_name : 
   disqus :
       short_name : whozj
 
