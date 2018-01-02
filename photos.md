@@ -7,3 +7,7 @@ header-img: "img/semantic.jpg"
 
 
 ## 故事与人生
+
+==XIHUAN==
+++XIHUAN++
+~~XIHUAN~~
