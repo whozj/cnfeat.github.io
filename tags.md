@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "每个人都有标签，文章也是"  
+description: "tag的作用就如同顺藤摸瓜"  
 header-img: "img/tag.jpg"  
 ---
 
