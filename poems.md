@@ -2,7 +2,7 @@
 layout: page
 title: "Poems"
 description: "我选择让诗照进内心"
-header-img: "img/whale.jpg"
+header-img: "img/poem.jpg"
 ---
 
 
