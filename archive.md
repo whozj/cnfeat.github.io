@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "所有的文字，都源自内心的不安"
-header-img: "img/universe.jpg"
+header-img: "img/archive.jpg"
 ---
 
 
