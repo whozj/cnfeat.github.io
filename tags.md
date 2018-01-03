@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "每个人都有标签，文章也是"  
-header-img: "img/Red-Brown.jpg"  
+header-img: "img/pano.jpg"  
 ---
 
 ## 基因列表
