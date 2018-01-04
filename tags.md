@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "tag的作用就如同顺藤摸瓜"  
+description: "有一首好听的歌叫“price tag”"  
 header-img: "img/tag.jpg"  
 ---
 
