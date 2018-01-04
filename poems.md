@@ -23,7 +23,7 @@ header-img: "img/poem.jpg"
 > 
 > &emsp;&emsp;这时想起苏东坡的一首诗：*人生到处知何似，恰似飞鸿踏雪泥。泥上偶然留指爪，鸿飞哪复计东西。*留下的这些文字，又有谁看到，谁又会在意？原来，我就是个孤独的人啊。
 
-<span id="jump"></span>
+<span id="jump">台风袭</span>
 <p id = "build"></p>
 
 **《春夜》**   
